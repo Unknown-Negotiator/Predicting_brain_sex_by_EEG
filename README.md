@@ -32,7 +32,7 @@ __ML models development and validation:__
  
 We utilize TorchEEG, a library built on PyTorch for EEG signal analysis. Due to the beta version of the framework, we developed two new custom datasets and implemented built-in deep learning models (convolutional neural networks) based on published papers for EEG analysis. Subsequently, we enhanced these models by adding additional convolutional neural network layers.
 
-Our metric: accuracy 69%
+Our metric: accuracy 79,8%
 
 __ML:__
 
