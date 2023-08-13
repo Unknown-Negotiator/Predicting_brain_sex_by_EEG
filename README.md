@@ -20,4 +20,5 @@ For the current project, we proposed to develop ML model that will improve the r
 
 __EEG data preparation and cleaning:__
 
+
 __ML model development and validation:__
