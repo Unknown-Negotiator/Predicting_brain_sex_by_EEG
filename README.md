@@ -11,6 +11,8 @@ Predicting brain sex based on EEG data
 **Scientific supervisor:**
 
 Ilya Zakharov, Brainify.AI
+
+![Sex of the brain pptx](https://github.com/Unknown-Negotiator/sex_of_brain/assets/23660795/7d6a1602-cc6f-4ec7-8e1e-ef30ba1452ab)
   
 ## Introduction
 
