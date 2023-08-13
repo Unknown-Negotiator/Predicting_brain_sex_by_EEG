@@ -24,7 +24,7 @@ TDBrain raw data in `.vhdr` format (and data in `.set` format from the second da
 
 Epochs were generated through function `mne.make_fixed_length_epochs` with `duration=4.0` and `overlap=0.5` parameters.
  
-__ML model development and validation:__
+__ML models development and validation:__
  
  __DL:__
  
