@@ -35,3 +35,7 @@ Our metric: accuracy 69%
 __ML:__
 
 Gradient-boosting on decision trees (extracted features from raw data with https://mne.tools/mne-features/api.html )
+
+Our metric: balanced accuracy 64%
+
+
