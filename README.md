@@ -20,8 +20,8 @@ For the current project, we proposed to develop ML model that will improve the r
 
 __EEG data preparation and cleaning:__
 
-TDBrain raw data in .vhdr format (and data in .set format from the second dataset) was processed via MNE library for EEG. Due to experimental conditions there are several sessions for one subjec and we selected only session 1 so that repeated session for one person would not be in analysis. Moreover, experiments with closed and open eyes were separated, too.
+TDBrain raw data in `.vhdr` format (and data in `.set` format from the second dataset) was processed via MNE library for EEG. Due to experimental conditions there are several sessions for one subjec and we selected only session 1 so that repeated session for one person would not be in analysis. Moreover, experiments with closed and open eyes were separated, too.
 
-Epochs were generated through function mne.make_fixed_length_epochs with duration=4.0 and overlap=0.5 parameters.
+Epochs were generated through function `mne.make_fixed_length_epochs` with `duration=4.0` and `overlap=0.5` parameters.
  
 __ML model development and validation:__
