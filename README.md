@@ -14,7 +14,7 @@ Ilya Zakharov, Brainify.AI
   
 ## Introduction
 
-For the current project, we propose to develop ML model that will improve the results of van Putten on the EEG data. Several publicly available datasets exist for that purpose (e.g., TUH dataset, Harati et al., 2015, or TD-Brain dataset, Dijk et al., 2022). Both handcrafted EEG features and automatically extracted features (e.g., with DCNN models) can be used for prediction, although the interpretability of the model has to be kept in mind.
+For the current project, we proposed to develop ML model that will improve the results of van Putten on the EEG data. Several publicly available datasets exist for that purpose (e.g., TUH dataset, Harati et al., 2015, or TD-Brain dataset, Dijk et al., 2022). We used both handcrafted EEG features and automatically extracted features (e.g., with ML models) for prediction.
 
 ##  Our results:
 __Data preparation:__
