@@ -25,3 +25,8 @@ TDBrain raw data in `.vhdr` format (and data in `.set` format from the second da
 Epochs were generated through function `mne.make_fixed_length_epochs` with `duration=4.0` and `overlap=0.5` parameters.
  
 __ML model development and validation:__
+
+We utilize TorchEEG, a library built on PyTorch for EEG signal analysis. Due to the beta version of the framework, we developed two new custom datasets and implemented built-in deep learning models (convolutional neural networks) based on published papers for EEG analysis. Subsequently, we enhanced these models by adding additional convolutional neural network layers.
+
+Our metric: accuracy 69%
+
